@@ -14,3 +14,4 @@ pip install wordfreq
 pip install nltk
 pip install spacy
 ```
+Note that wordfreq may need you to install [C++ Build Tools]https://go.microsoft.com/fwlink/?LinkId=691126
