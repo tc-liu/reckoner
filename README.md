@@ -11,9 +11,17 @@ Analyzes file-specific stylistic diction
 
 ## Installing dependencies:
 Installing from pip:
-```markdown
+```bash
 pip install wordfreq
 pip install nltk
 pip install spacy
 ```
 Note that wordfreq may need you to install [C++ Build Tools](https://go.microsoft.com/fwlink/?LinkId=691126)
+
+## Usage:
+In your terminal/CLI, make sure you are in the `reckoner` directory that contains `reckoner.py`, and then enter any line in these three lines that works:
+```bash
+python reckoner.py
+py reckoner.py
+python3 reckoner.py
+```
